@@ -76,7 +76,7 @@
 /* 02. Intro
  * =================================================================== */
  .section-image {
- 	background: #151515 url(http://markhavens.us/images/heaven.jpg) no-repeat center center;
+ 	background: #151515 url(https://markhavens.us/images/heaven.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -239,7 +239,7 @@ section {
     font-size: 1.7em;
 }
 #skills {
-    background: #151515 url(http://markhavens.us/images/earth.jpg) no-repeat center center;
+    background: #151515 url(https://markhavens.us/images/earth.jpg) no-repeat center center;
     height: auto;
 }
 
@@ -377,7 +377,7 @@ footer p {
     }
 
     #skills {
-        background: #151515 url(http://markhavens.us/images/earth.jpg) no-repeat center center;
+        background: #151515 url(https://markhavens.us/images/earth.jpg) no-repeat center center;
         background-position: top center;
 
     }
