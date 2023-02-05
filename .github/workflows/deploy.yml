@@ -28,6 +28,6 @@ jobs:
         host: ${{ secrets.DEV_SSH_HOST }}
         username: ${{ secrets.DEV_SSH_USER }}
         port: ${{ secrets.DEV_SSH_PORT }}
-        source: public/.
+        source: .
         target: ${{ secrets.DEV_SSH_DIR }}
         key: ${{ secrets.DEV_SSH_KEY }}
