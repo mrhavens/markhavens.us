@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<!----------------------------------------------------------------------------------------------------------------------- 
+   Copyright 2022 Mark Randall Havens
+   
+   This website design is based on work by Iskender Piyale-Sheard (http://www.izzydoesizzy.com) and is licensed under
+   Creative Commons Attribution 4.0, (see http://creativecommons.org/licenses/by/4.0/ for more details). All photos used 
+   are in the public domain.
+   ---------------------------------------------------------------------------------------------------------------------->
+<html lang="en">
+   <head>
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143352529-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-143352529-1');
+</script>
+      <meta charset="utf-8">
+      <meta content="IE=edge" http-equiv="X-UA-Compatible">
+      <meta content="width=device-width, initial-scale=1" name="viewport">
+      <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+      <meta content="" name="description">
+      <meta content="" name="author">
+      <link href="../../favicon.ico" rel="icon">
+      <title>Mark Randall Havens</title>
+      <!-- Bootstrap core CSS -->
+      <link crossorigin="anonymous" href=
+         "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+         integrity=
+         "sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7"
+         rel="stylesheet">
+      <!-- FontAwesome Icon Font -->
+      <link href=
+         "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+         rel="stylesheet">
+      <!-- LinearIcons Icon Font -->
+      <link href="https://cdn.linearicons.com/free/1.0.0/css/icon-font.min.css" rel=
+         "stylesheet">
+      <!-- Main Stylesheet -->
+      <link href="css/style.css" rel="stylesheet">
+      <!-- Timeline CSS -->
+      <link href="css/timeline.css" rel="stylesheet">
+   </head>
+   <body>
+      <!-- INTRO SECTION --------------------------------------------------------------------------------------------->
+      <section class="section-image">
+         <div class="img-overlay"></div>
+         <div class="intro">
+            <div class="row">
+               <div class="col-md-12">
+                  <h5>Hi there, I'm</h5>
+                  <h1>Mark Randall Havens</h1>
+                  <p class="intro-desc"><span>Maker</span>
+                     <span class="colour-splash">•</span>
+                     <span>Scientist</span> <span class=
+                        "colour-splash">•</span> <span>Writer
+                     </span>  <span class=
+                  </p>
+               </div>
+               <!-- /col-md-12 -->
+            </div>
+            <div class="row">
+               <!-- /col-md-8 -->
+            </div>
+            <!-- /row -->
+            <div class="bottom">
+               <a href="#about">
+                  <div class="mouse-icon">
+                     <div class="scroll">
+                     </div>
+                  </div>
+               </a>
+            </div>
+         </div>
+         <!-- /intro -->
+      </section>
+      <!-- ABOUT SECTION ---------------------------------------------------------------------------------------------->
+      <section class="section-primary" id="about">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-6 col-md-offset-3 text-center">
+                  <img class="profilepic" src="images/mark_pro_photo_2.jpg">
+                  <h2>ABOUT ME</h2>
+                  <hr>
+                  <p class="lead">
+
+                  <b><a href="https://dallasmakercommunity.org">Dallas Maker Community</a></b>
+
+                        <br><br>
+
+                        I am Founder and Executive Director of <a href="https://dallasmakercommunity.org">Dallas Maker Community</a>. We are a non-profit organization that helps, promotes, and safeguards all Dallas/Fort Worth area <a href="https://www.makerspaces.com/what-is-a-makerspace/">makerspaces</a> that contribute to the public good. This includes for-profit makerspaces, non-profit makerspaces, college/university makerspaces, public school makerspaces, and library makerspaces.
+
+                        <br><br>
+
+We also work to support other important maker/makerspace interests in the Dallas/Fort Worth metroplex. We believe in the power of making, and its ability to change lives. Our goal is to make Dallas/Fort Worth a mecca for Maker culture. By promoting, growing, and living our Maker culture here at home, we will be doing our part to grow and support the Maker Movement throughout the world!
+
+<br><br>
+
+<b><a href="https://dallasmakerspace.org">Dallas Makerspace</a></b>
+
+<br><br>
+
+I've always been fascinated by how people interact with their environment and each other. In 2010, I founded <a href="https://dallasmakerspace.org">Dallas Makerspace</a>, which grew to become the largest all-volunteer-run community workshop on the planet. Dallas Makerspace is one of the proudest ways I have given back. It serves as a monument to show how people can organize and come together to share their passions, leading to massive impact. People not only impact their own communities through makerspaces, but they can impact the whole world.
+
+<br><br>
+
+Dallas Makerspace is more than just a community workshop. It's a place where people can come together and learn new skills, make friends, and create things they never thought possible. It has everthing from woodworking and metalworking tools to 3D printers and sewing machines.
+
+<br><br>
+
+It has grown to become the gold standard for community makerspaces all over the world. What started as a small group of passionate people has become a template for an international makerspace movement that has changed the way people think about making things.
+
+<br><br>
+
+<b>Academic Research</b>
+
+<br><br>
+
+I'm an academic researcher with a diverse background in data science and machine learning. However, I find more fulfillment studying the softer sciences, such as management science, game theory, and human psychology.
+
+<br><br>
+
+Awarded a <a href="https://markhavens.us/gaann-mirror/">Ph.D. fellowship from UT Arlington in 2016</a>, my formal research has taken a number of turns. While researching from a Computer Science perspective, I look for ways to use computing to explore the many ways that humans interact with each other and make decisions.
+
+<br><br>
+
+<b>Writing</b>
+
+<br><br>
+
+I am an occasional writer of science fiction, fantasy, and horror stories. I like to dabble in all sorts of genres, but I'm always fascinated by the ways people interact with each other, and how they solve problems. My hope is that through my writing, I can help people see the world in a new light.
+
+
+                  </p>
+               </div>
+               <!-- /col-md-6 -->
+            </div>
+            <!-- / row -->
+         </div>
+         <!-- /container -->
+      </section>
+      <!-- SKILLS SECTION --------------------------------------------------------------------------------------------->
+      <section class="section-image" id="skills">
+         <div class="img-overlay"></div>
+         <div class="container">
+            <div class="row">
+               <div class="col-md-12 section-heading">
+                  <h2>MY OTHER BIG PASSIONS</h2>
+                  <p class="lead">
+                     Education<span class="colour-splash">•</span>Communication<span class="colour-splash">•</span>Philosophy<br>
+                     Machine Learning<span class="colour-splash">•</span>Big Data<span class="colour-splash">•</span>Affective Computing<br>
+                     Facial Expression Analysis<span class="colour-splash">•</span>Psychology<span class="colour-splash">•</span>Game Theory<br>
+                     Cloud Architecture<span class="colour-splash">•</span>Marketing<span class="colour-splash">•</span>Programming Languages<br>
+                     Community Leadership<span class="colour-splash">•</span>Team Leadership<span class="colour-splash">•</span>Management Systems<br>
+                     Information Security<span class="colour-splash">•</span>Computer Networking<span class="colour-splash">•</span>Electronics
+                  </p>
+                  <hr>
+               </div>
+            </div>
+            <!-- / row -->
+         </div>
+         <!-- /container -->
+      </section>
+      <!-- TIMELINE SECTION ------------------------------------------------------------------------------------------->
+      <section class="section-primary" id="timelinesection">
+         <div class="container">
+         <div class="row">
+            <div class="col-md-12 section-heading">
+               <h2>THINGS I'VE DONE</h2>
+               <p class="lead">A few proud moments from my life story...</p>
+               <hr class="white">
+            </div>
+         </div>
+         <div class="row">
+            <div class="col-md-12">
+               <!-- Timeline -->
+               <div id="timeline">
+                  <!-- Timeline Item, copy from here to create various boxes -->
+                  <div class="timeline-item">
+                     <!--Icon inside the circle-->
+                     <div class="timeline-icon">
+                        <i class="fa fa-database"></i>
+                     </div>
+                     <!-- Content from timeline box and position (right or left)-->
+
+<!--                     <div class="timeline-content right">
+                        <h2>Began Data Science Startup</h2>
+                        <p>In 2019, I began working on commercial data science projects part-time.
+                        </p>
+                     </div>
+                  </div>
+-->
+                  <!-- /Timeline Item-->
+
+                  <!-- Timeline Item, copy from here to create various boxes -->
+                  <div class="timeline-item">
+                     <!--Icon inside the circle-->
+                     <div class="timeline-icon">
+                        <i class="fa fa-globe"></i>
+                     </div>
+                     <!-- Content from timeline box and position (right or left)-->
+                     <div class="timeline-content left">
+                        <h2>Worked for the NSF</h2>
+                        <p>In 2018, I supervised a deep learning research team for the National Science Foundation to 
+						build a working prototype of a wearable emotion detection device for the autistic and visualy 
+						impared.
+                        </p>
+                     </div>
+                  </div>
+                  <!-- /Timeline Item-->
+                  <!-- Timeline Item, copy from here to create various boxes -->
+                  <div class="timeline-item">
+                     <!--Icon inside the circle-->
+                     <div class="timeline-icon">
+                        <i class="fa fa-fighter-jet"></i>
+                     </div>
+                     <!-- Content from timeline box and position (right or left)-->
+                     <div class="timeline-content right">
+                        <h2>Worked for the US Air Force</h2>
+                        <p>In 2018, I conducted deep learning research for the U.S. Air Force Research Laboratory in 
+						Rome, New York that could lead to more reliable ways to detect microexpressions in the face 
+						from standard video sources.
+                        </p>
+                     </div>
+                  </div>
+                  <!-- /Timeline Item-->
+                  <!-- Timeline Item, copy from here to create various boxes -->
+                  <div class="timeline-item">
+                     <!--Icon inside the circle-->
+                     <div class="timeline-icon">
+                        <i class="fa fa-space-shuttle"></i>
+                     </div>
+                     <!-- Content from timeline box and position (right or left)-->
+                     <div class="timeline-content left">
+                        <h2>Worked for NASA</h2>
+                        <p>In 2016, I organized a research team to build a prototype of a wifi mobile 
+						disruption-tolerent ad-hoc mesh network for use on the international space station.
+                        </p>
+                     </div>
+                  </div>
+                  <!-- /Timeline Item-->
+                  <!-- Timeline Item, copy from here to create various boxes -->
+                  <div class="timeline-item">
+                     <!--Icon inside the circle-->
+                     <div class="timeline-icon">
+                        <i class="fa fa-graduation-cap"></i>
+                     </div>
+                     <!-- Content from timeline box and position (right or left)-->
+                     <div class="timeline-content right">
+                        <h2>Began Ph.D.</h2>
+                        <p>In 2016, I was awarded a full fellowship, funded by the Department of Education, to pursue 
+						a Ph.D. in Computer Science at the University of Texas at Arlington.
+                        </p>
+                     </div>
+                  </div>
+
+                  <!-- /Timeline Item-->
+                  <!-- Timeline Item, copy from here to create various boxes -->
+                  <div class="timeline-item">
+                     <!--Icon inside the circle-->
+                     <div class="timeline-icon">
+                        <i class="fa fa-microchip"></i>
+                     </div>
+                     <!-- Timeline Item, copy from here to create various boxes -->
+                     <div class="timeline-item">
+                        <!--Icon inside the circle-->
+                        <div class="timeline-icon">
+                           <i class="fa fa-graduation-cap"></i>
+                        </div>
+                        <!-- Content from timeline box and position (right or left)-->
+                        <div class="timeline-content left">
+                           <h2>Finished Masters</h2>
+                           <p>In 2013, I received an MSM in Information Security from Colorado Technical University.
+                           </p>
+                        </div>
+                     </div>
+
+                     <!-- /Timeline Item-->
+                     <!-- Content from timeline box and position (right or left)-->
+<!--
+                     <div class="timeline-item">
+                        <div class="timeline-icon">
+                           <i class="fa fa-microchip"></i>
+                        </div>
+                        <div class="timeline-content right">
+                           <h2>Began Tech Startup</h2>
+                           <p>In 2012, I began working on several startup projects full-time.
+                           </p>
+                        </div>
+                     </div>
+-->
+                     <!-- /Timeline Item-->
+                     <!-- Timeline Item, copy from here to create various boxes -->
+                     <div class="timeline-item">
+                        <!--Icon inside the circle-->
+                        <div class="timeline-icon">
+                           <i class="fa fa-phone"></i>
+                        </div>
+                        <!-- Content from timeline box and position (right or left)-->
+                        <div class="timeline-content right">
+                           <h2>Worked for AT&T</h2>
+                           <p>In 2010, I became a senior technical architect at AT&T, where I began designing production datacenter and cloud infrastructure. 
+						      My most notable project was the development of all datacenter infrastructure 
+							  blueprints for the nationwide rollout of the iPhone's online billing system.
+                           </p>
+                        </div>
+                     </div>
+                     <!-- /Timeline Item-->
+                     <!-- Timeline Item, copy from here to create various boxes -->
+                     <div class="timeline-item">
+                        <!--Icon inside the circle-->
+                        <div class="timeline-icon">
+                           <i class="fa fa-users"></i>
+                        </div>
+                        <!-- Content from timeline box and position (right or left)-->
+                        <div class="timeline-content left">
+                           <h2>Began Nonprofit Startup</h2>
+                           <p>In 2010, I began working with members of the Dallas Personal Robotics Group 
+						   (<a href="mailto:mark.r.havens@gmail.com">DPRG</a>) to co-found 
+						   <a href="https://dallasmakerspace.org">Dallas Makerspace</a> later that year
+						   as the first makerspace in Dallas. It's now a million dollar company.
+                           </p>
+                        </div>
+                     </div>
+                     <!-- /Timeline Item-->
+                     <!-- Timeline Item, copy from here to create various boxes -->
+                     <div class="timeline-item">
+                        <!--Icon inside the circle-->
+                        <div class="timeline-icon">
+                           <i class="fa fa-phone"></i>
+                        </div>
+                        <!-- Content from timeline box and position (right or left)-->
+                        <div class="timeline-content right">
+                           <h2>Worked for Verizon</h2>
+                           <p>In 2006, I began working as a lead systems engineer for core customer-facing voice and internet applications.
+                           </p>
+                        </div>
+                     </div>
+                     <!-- /Timeline Item-->
+                     <!-- Timeline Item, copy from here to create various boxes -->
+                     <div class="timeline-item">
+                        <!--Icon inside the circle-->
+                        <div class="timeline-icon">
+                           <i class="fa fa-graduation-cap"></i>
+                        </div>
+                        <!-- Content from timeline box and position (right or left)-->
+                        <div class="timeline-content left">
+                           <h2>Finished Bachelors</h2>
+                           <p>In 2005, I earned a BS in Computer Science from what is now the University of Texas Rio 
+						   Grand Valley.
+                           </p>
+                        </div>
+                     </div>
+                     <!-- /Timeline Item-->
+                     <!-- Timeline Item, copy from here to create various boxes -->
+                     <div class="timeline-item">
+                        <!--Icon inside the circle-->
+                        <div class="timeline-icon">
+                           <i class="fa fa-windows"></i>
+                        </div>
+                        <!-- Content from timeline box and position (right or left)-->
+                        <div class="timeline-content right">
+                           <h2>Worked for Microsoft</h2>
+                           <p>In 1999, I began working as a SQL Developer & Database Analyst. 
+                           </p>
+                        </div>
+                     </div>
+                     <!-- /Timeline Item-->
+                     <!-- Timeline Item, copy from here to create various boxes -->
+                     <div class="timeline-item">
+                        <!--Icon inside the circle-->
+                        <div class="timeline-icon">
+                           <i class="fa fa-money"></i>
+                        </div>
+                        <!-- Content from timeline box and position (right or left)-->
+                        <div class="timeline-content left">
+                           <h2>Sold Tech Startup</h2>
+                           <p>In 1998, I sold a tech startup that I began just three years earlier.
+                           </p>
+                        </div>
+                     </div>
+                     <!-- /Timeline Item-->
+                     <!-- Timeline Item, copy from here to create various boxes -->
+                     <div class="timeline-item">
+                        <!--Icon inside the circle-->
+                        <div class="timeline-icon">
+                           <i class="fa fa-graduation-cap"></i>
+                        </div>
+                        <!-- Content from timeline box and position (right or left)-->
+                        <div class="timeline-content right">
+                           <h2>Finished Trade School</h2>
+                           <p>In 1998, after taking many programming courses that included mastering COBOL (in 
+						   preparation for Y2K), I received an Applied Associates Degree in Computer Science 
+						   Technology from Texas State Technical College.
+                           </p>
+                        </div>
+                     </div>
+                     <!-- /Timeline Item-->
+                     <!-- Timeline Item, copy from here to create various boxes -->
+                     <div class="timeline-item">
+                        <!--Icon inside the circle-->
+                        <div class="timeline-icon">
+                           <i class="fa fa-group"></i>
+                        </div>
+                        <!-- Content from timeline box and position (right or left)-->
+                        <div class="timeline-content left">
+                           <h2>First Employees</h2>
+                           <p>In 1996, I began to hire the first members of my support and sales staff.
+                           </p>
+                        </div>
+                     </div>
+                     <!-- /Timeline Item-->
+                     <!-- Timeline Item, copy from here to create various boxes -->
+                     <div class="timeline-item">
+                        <!--Icon inside the circle-->
+                        <div class="timeline-icon">
+                           <i class="fa fa-microchip"></i>
+                        </div>
+                        <!-- Content from timeline box and position (right or left)-->
+                        <div class="timeline-content right">
+                           <h2>First Support Contract</h2>
+                           <p>In 1995, I was hired exclusivily to provide systems support for a startup Internet 
+						   Service Provider and its customers. 
+                           </p>
+                        </div>
+                     </div>
+                     <!-- /Timeline Item-->
+                     <!-- Timeline Item, copy from here to create various boxes -->
+                     <div class="timeline-item">
+                        <!--Icon inside the circle-->
+                        <div class="timeline-icon">
+                           <i class="fa fa-code"></i>
+                        </div>
+                        <!-- Content from timeline box and position (right or left)-->
+                        <div class="timeline-content left">
+                           <h2>First Hacker Gig</h2>
+                           <p>In 1995, I was hired by a startup hardware manufacturer to decompile and reverse 
+						   engineer a disk caching feature of Microsoft DOS.
+                           </p>
+                        </div>
+                     </div>
+                     <!-- /Timeline Item-->
+                     <!-- Timeline Item, copy from here to create various boxes -->
+                     <div class="timeline-item">
+                        <!--Icon inside the circle-->
+                        <div class="timeline-icon">
+                           <i class="fa fa-gavel"></i>
+                        </div>
+                        <!-- Content from timeline box and position (right or left)-->
+                        <div class="timeline-content right">
+                           <h2>First Government Job</h2>
+                           <p>In 1995, I became the youngest intern to work in what is now the Information Technology 
+						   and Security Services division of the Texas Attorney General.
+                           </p>
+                        </div>
+                     </div>
+                     <!-- /Timeline Item-->
+                     <!-- Timeline Item, copy from here to create various boxes -->
+                     <div class="timeline-item">
+                        <!--Icon inside the circle-->
+                        <div class="timeline-icon">
+                           <i class="fa fa-microchip"></i>
+                        </div>
+                        <!-- Content from timeline box and position (right or left)-->
+                        <div class="timeline-content left">
+                           <h2>First Real Job</h2>
+                           <p>In 1992, at the age of 16, I got my first hourly job as a computer technician, where I 
+						   discovered the unpleasant duty of paying taxes.
+                           </p>
+                        </div>
+                     </div>
+                     <!-- /Timeline Item-->
+                     <!-- Timeline Item, copy from here to create various boxes -->
+                     <div class="timeline-item">
+                        <!--Icon inside the circle-->
+                        <div class="timeline-icon">
+                           <i class="fa fa-users"></i>
+                        </div>
+                        <!-- Content from timeline box and position (right or left)-->
+                        <div class="timeline-content right">
+                           <h2>First Community Organization</h2>
+                           <p>In 1990, at the age of 14, I started the Lower Valley Computer Club (LVCC) in my 
+						   hometown, which grew to over 100 members.
+                           </p>
+                        </div>
+                     </div>
+                     <!-- /Timeline Item-->
+                     <!-- Timeline Item, copy from here to create various boxes -->
+                     <div class="timeline-item">
+                        <!--Icon inside the circle-->
+                        <div class="timeline-icon">
+                           <i class="fa fa-microchip"></i>
+                        </div>
+                        <!-- Content from timeline box and position (right or left)-->
+                        <div class="timeline-content left">
+                           <h2>First PC Build</h2>
+                           <p>In 1989, at the age of 13, I built an 8088 IBM PC XT clone from the free parts I had 
+			   collected while doing computer repair and upgrade work for various business owners at my church. I then put it to work as a <a href="https://en.wikipedia.org/wiki/Bulletin_board_system">BBS</a> that remained in popular use for the next six years.
+                           </p>
+                        </div>
+                     </div>
+                     <!-- /Timeline Item-->
+                     <!-- Timeline Item, copy from here to create various boxes -->
+                     <div class="timeline-item">
+                        <!--Icon inside the circle-->
+                        <div class="timeline-icon">
+                           <i class="fa fa-apple"></i>
+                        </div>
+                        <!-- Content from timeline box and position (right or left)-->
+                        <div class="timeline-content right">
+                           <h2>First Program</h2>
+                           <p>In 1984, at the age of 7, I wrote my first computer program in Applesoft BASIC that went beyond
+			      copying from the manual: <br>
+						   <br> 10 PRINT "MARK"<br>
+						        20 GOTO 10<br>
+                           </p>
+                        </div>
+                     </div>
+                     <!-- /Timeline Item-->
+                  </div>
+                  <!-- /col-md-12 -->
+               </div>
+               <!-- /row -->
+            </div>
+         </div>
+         <!-- / container -->
+      </section>
+      <!-- FOOTER SECTION --------------------------------------------------------------------------------------------->
+      <footer class="footer">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-4">
+                  <p>mark {dot} r {dot} havens [at] gmail {dot} com</a><br>
+                     </a>
+                  </p>
+               </div>
+               <div class="col-md-4 text-center">
+                  <p>Copyright © 2022 Mark Randall Havens
+                     </a>
+                  </p>
+               </div>
+               <div class="col-md-4 text-right">
+                  <div class="social-footer">
+                     <a href="https://www.youtube.com/c/MarkHavens" target=
+                        "_blank"><i class="fa fa-youtube"></i></a>
+		     <a href="https://mark-havens.medium.com"
+                        target="_blank"><i class=
+                        "fa fa-medium fa-2xs"></i></a>
+                     <a href="https://www.twitter.com/markrhavens" target=
+                        "_blank"><i class="fa fa-twitter"></i></a>
+                     <a href="https://ca.linkedin.com/in/markhavens" target=
+                        "_blank"><i class="fa fa-linkedin"></i></a>
+                     <a href="https://www.facebook.com/markrhavens" target=
+                        "_blank"><i class="fa fa-facebook"></i></a>
+                  </div>
+                  <!-- /social footer -->
+               </div>
+               <!-- /col-md-4 -->
+            </div>
+            <!-- /row -->
+         </div>
+         <!-- /container -->
+      </footer>
+      <!-- Bootstrap core JavaScript
+         ================================================== -->
+      <!-- Placed at the end of the document so the pages load faster -->
+      <script src=
+         "https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
+      <script>
+         window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')
+      </script> 
+      <script src="js/bootstrap.min.js"></script> 
+      <script src="js/scripts.js"></script>
+   </body>
+</html>
